@@ -17,6 +17,17 @@ I like to write about the things that sparks my interest and about the things th
 
 ***Our greatest glory is not in never falling, but in rising every time we fall. -  Confucius***
 
+NEWS
+======
+*  [2023 Apr] Submitted paper on Fetal movement monitoring using attention mechanisms
+*  [2023 Apr] Started working as a Teaching Assistant working at the [Department of Computer Engineering](http://www.ce.pdn.ac.lk/), [University of Peradeniya](https://www.pdn.ac.lk/)
+*  [2023 Mar] Successfully Completed the BSc (Hons) in Engineering
+*  [2022 Aug] Internship placement at [Zone24x7](https://zone24x7.com/)
+*  [2021 Dec] Published paper on CCTV based Computer Vision at ICIIS 2021
+*  [2019 Nov] Internship placement at [OREL Corporation](https://orel.com/)
+*  [2019 Jun] Selected to Department of Electrical and Electronic Engineering
+*  [2017 Nov] Entered University of Peradeniya as an undergraduate to study Engineering
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
