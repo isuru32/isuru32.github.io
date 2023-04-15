@@ -1,19 +1,28 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Projects"
   #   url: /talks/    
 
   # - title: "Experience"
-  #   url: /teaching/  
+  #   url: /teaching/ 
+
+  - title: "Publications"
+    url: /publication/  
 
   - title: "Projects"
-    url: /projects/  
-    
+    url: /projects/ 
+
   - title: "Selected Competitions"
-    url: /portfolio/
+    url: /competitions/
+
+  - title: "Blog Posts"
+    url: /blog/  
+    
+  # - title: "Selected Competitions"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
