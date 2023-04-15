@@ -1,7 +1,7 @@
 ---
 title: "Integrated Video Based Crowdedness Forecasting Framework with a Review of Crowd Counting Models"
 collection: publications
-permalink: /publication/computervision1
+permalink: /publications/computervision1
 excerpt: 'The goal was to put out a comprehensive system to automate crowd monitoring, gather information on crowd size, and forecast crowd size for both the immediate and foreseeable futures. CCTV footage was used to achieve this because it is easy to get them worldwide and they are excellent for analyzing crowd behavior. In this work, we used a dataset of our own to evaluate some of the best performing state-of-the-art algorithms that have been trained on big datasets for large crowd counting.
 
 The predicting of the crowd size at a certain site is the main topic of the second half of this paper. This was done in two situations: forecasting the level of crowding at any given time and date, and predicting the level of crowding over the course of the next 15 hours.'
