@@ -12,14 +12,17 @@ main:
   - title: "Publications"
     url: /publication/  
 
-  - title: "Projects"
+  - title: "Selected Projects"
     url: /projects/ 
 
   - title: "Selected Competitions"
     url: /competitions/
 
-  - title: "Blog Posts"
+  - title: "Selected Blog Posts"
     url: /blog/  
+
+  - title: "Patents"
+    url: /patents/  
     
   # - title: "Selected Competitions"
   #   url: /portfolio/
@@ -27,7 +30,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "Qualifications"
     url: /cv/
     
   - title: "Other"

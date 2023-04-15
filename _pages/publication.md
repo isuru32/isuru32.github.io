@@ -7,196 +7,52 @@ redirect_from:
   - /publication.html
 ---
 
-## Locations of key files/directories
+## Fetal Movement Identification Using Spectrograms with Attention Models and Identifying a Set of Correlating Parameters with Gestational Age
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* **Authors:** ***Thilakasiri, L.B.I.P.***, Alwis, D.M.P.M., Nanayakkara, R.T., Godaliyadda, G.M.R.I.,
+Ekanayake, M.P.B., Wijayakulasooriya, J. V., Rathnayake, R.M.C.J.
 
-## Tips and hints
+* **Status:** Under Review
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* **Description:** Monitoring fetal movement is crucial for ensuring a fetus' safety. A well-known way of assessing fetus health involves regularly counting kicks and tracking the pattern. This procedure can be carried out either at home or in a clinical setting, but both has drawbacks like limited precision and irregular access to equipment. In order to identify fetal movements from such recordings, algorithms that can be employed in a home context to record fetal movements are taken into consideration. 
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+Attention mechanisms have shown the ability to better identify long term series events and the possibility of better identifying fetal movement occurrence using such models has been discussed in this paper as a novel use case and a novel attempt to correlate statistical parameters with the gestational age has also been discussed so that a fetus with irregularities of a fetus such as, decreased growth, can be identified beforehand.
 
-## Markdown guide
+* **Sumbitted Date:** 2023-03-15
 
-### Header three
+* **Conference:** 20213 IEEE 18th International Conference on Industrial and Information Systems (ICIIS)
 
-#### Header four
+<!-- * **URL:** 'https://ieeexplore.ieee.org/abstract/document/9660701/'
 
-##### Header five
+* **BibTeX Citation:** @inproceedings{thilakasiri2021integrated,
+  title={Integrated Video Based Crowdedness Forecasting Framework with a Review of Crowd Counting Models},
+  author={Thilakasiri, LBIP and Alwis, DMPM and Nanayakkara, RT and Godaliyadda, GMRI and Ekanayake, MPB and Herath, HMVR and Ekanayake, JB},
+  booktitle={2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)},
+  pages={29--34},
+  year={2021},
+  organization={IEEE}
+} -->
 
-###### Header six
+## Integrated Video Based Crowdedness Forecasting Framework with a Review of Crowd Counting Models
 
-## Blockquotes
+* **Authors:** ***Thilakasiri, L.B.I.P.***, Alwis, D.M.P.M., Nanayakkara, R.T., Godaliyadda, G.M.R.I.,
+Ekanayake, M.P.B., Herath, H.M.V.R., Ekanayake, J.B.
 
-Single line blockquote:
+* **Description:** The goal was to put out a comprehensive system to automate crowd monitoring, gather information on crowd size, and forecast crowd size for both the immediate and foreseeable futures. CCTV footage was used to achieve this because it is easy to get them worldwide and they are excellent for analyzing crowd behavior. In this work, we used a dataset of our own to evaluate some of the best performing state-of-the-art algorithms that have been trained on big datasets for large crowd counting.
 
-> Quotes are cool.
+The predicting of the crowd size at a certain site is the main topic of the second half of this paper. This was done in two situations: forecasting the level of crowding at any given time and date, and predicting the level of crowding over the course of the next 15 hours.
 
-## Tables
+* **Date:** 2021-12-09
 
-### Table 1
+* **Conference:** 2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+* **URL:** 'https://ieeexplore.ieee.org/abstract/document/9660701/'
 
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+* **BibTeX Citation:** @inproceedings{thilakasiri2021integrated,
+  title={Integrated Video Based Crowdedness Forecasting Framework with a Review of Crowd Counting Models},
+  author={Thilakasiri, LBIP and Alwis, DMPM and Nanayakkara, RT and Godaliyadda, GMRI and Ekanayake, MPB and Herath, HMVR and Ekanayake, JB},
+  booktitle={2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)},
+  pages={29--34},
+  year={2021},
+  organization={IEEE}
 }
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
