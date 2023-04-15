@@ -32,6 +32,6 @@ main:
     
   - title: "Qualifications"
     url: /cv/
-    
-  - title: "Other"
-    url: /markdown/
+
+  # - title: "Other"
+  #   url: /markdown/ 

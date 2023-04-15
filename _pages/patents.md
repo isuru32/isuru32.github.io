@@ -9,7 +9,7 @@ redirect_from:
 
 ## A Multi-Sensory Fetal Movement Analyzing Device
 
-* **Contributors:** Nanayakkara, R.T. ***Thilakasiri, L.B.I.P.***, Alwis, D.M.P.M., Pandukabhaya V.K.M., Godaliyadda, G.M.R.I., Ekanayake, M.P.B., Wijayakulasooriya J.V., Ratnayake R.M.C.J
+* **Contributors:** Nanayakkara, R.T., ***Thilakasiri, L.B.I.P.***, Alwis, D.M.P.M., Pandukabhaya V.K.M., Godaliyadda, G.M.R.I., Ekanayake, M.P.B., Wijayakulasooriya J.V., Ratnayake R.M.C.J
 
 * **Status:** Pending
 
