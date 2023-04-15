@@ -1,10 +1,10 @@
 ---
-permalink: /projects/
+permalink: /blog/
 title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
-  - /projects.html
+  - /blog.html
 ---
 
 ## Locations of key files/directories

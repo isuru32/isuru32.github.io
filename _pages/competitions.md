@@ -1,10 +1,10 @@
 ---
-permalink: /projects/
-title: "Markdown"
+permalink: /competitions/
+title: "Competitions"
 author_profile: true
 redirect_from: 
   - /md/
-  - /projects.html
+  - /competitions.html
 ---
 
 ## Locations of key files/directories
