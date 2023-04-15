@@ -23,7 +23,7 @@ Work experience
 * Aug 2022 - Oct 2022: Trainee Associate Electronics Engineer - [Zone 24x7](https://zone24x7.com/)
   * Project: Network Quality of Service Monitoring : A module with the ability to monitor and analyse the Resources in servers/ client devices to identify the system bottlenecks
   * Skills: eBPF, Cgroups version 1 and version 2, Linux Kernel Operations, Raspberry Pi, Resource monitoring and Perturbations, Client-Server Configurations, Multiprocessing
-  * Awards: Selected as one of the Top 4 Interns of the Year 2022 at the 'Zone Awards 2022'
+  * Awards: Selected as one of the **Top 4 Interns of the Year 2022 at the 'Zone Awards 2022'**
 
 * Dec 2019 - Feb 2020: Full Time Engineering Trainee - [OREL Corporation](https://orel.com/)
   * Project: Driverless Dimmable LED Bulb module Design, RFID Card Reader & Power Module Design, Roller Door PCB Design, Power Guard PCB Design
