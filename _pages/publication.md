@@ -18,7 +18,7 @@ Ekanayake, M.P.B., Wijayakulasooriya, J. V., Rathnayake, R.M.C.J.
 
 * **Sumbitted Date:** 2023-03-15
 
-* **Conference:** 20213 IEEE 18th International Conference on Industrial and Information Systems (ICIIS)
+* **Conference:** 2023 IEEE 17th International Conference on Industrial and Information Systems (ICIIS)
 
 <!-- * **URL:** 'https://ieeexplore.ieee.org/abstract/document/9660701/'
 

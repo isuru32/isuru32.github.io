@@ -21,7 +21,7 @@ Work experience
 * Apr 2023 Onwards: Teaching Assistant - [University of Peradeniya](https://www.pdn.ac.lk/)
 
 * Aug 2022 - Oct 2022: Trainee Associate Electronics Engineer - [Zone 24x7](https://zone24x7.com/)
-  * Project: Network Quality of Service Monitoring : A module with the ability to monitor and analyse the Resources in servers/ client devices to identify the system bottlenecks
+  * Project: Network Quality of Service Monitoring : A module with the ability to monitor and analyse the Resources in servers/ client devices to identify the system bottlen<title>ecks
   * Skills: eBPF, Cgroups version 1 and version 2, Linux Kernel Operations, Raspberry Pi, Resource monitoring and Perturbations, Client-Server Configurations, Multiprocessing
   * Awards: Selected as one of the **Top 4 Interns of the Year 2022** at the 'Zone Awards 2022'
 
