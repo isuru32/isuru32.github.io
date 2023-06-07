@@ -19,6 +19,7 @@ I like to write about the things that sparks my interest and about the things th
 
 NEWS
 ======
+*  [2023 Jun] The paper on Fetal movement monitoring using attention mechanisms was accepted for IEEE ICIIS 2023
 *  [2023 Apr] Submitted paper on Fetal movement monitoring using attention mechanisms
 *  [2023 Apr] Started working as a Teaching Assistant working at the [Department of Computer Engineering](http://www.ce.pdn.ac.lk/), [University of Peradeniya](https://www.pdn.ac.lk/)
 *  [2023 Mar] Successfully Completed the BSc (Hons) in Engineering
