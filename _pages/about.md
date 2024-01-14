@@ -11,20 +11,25 @@ I am Isuru Pamuditha a Teaching Assistant working at the [Department of Computer
 
 <!-- Throughout my undergraduate studies, I was fortunate to be advised by many fantastic researchers. Most recently, I have been working with Prof. Janaka Ekanayake and Prof. Samath Dharmaratne on the potential of AI for COVID-19 related applications. Previously, for my final year research project, I worked with Prof. Roshan Ragel, Dr. Roshan Godaliyadda, Dr. Parakrama Ekanayake, and Dr. Vijitha Herath on image quality enhancement under low/high exposure conditions. During my internship at Nokia Bell Labs, I had the privilege of working with Prof. Haris Gačanin. I have been collaborating remotely since, and I completed a project on the application of machine learning models for dynamic wireless networks.  -->
 
-Throughout my undergraduate studies, I was fortunate to be advised by many fantastic researchers. For my final year research project, I worked with [Prof. Roshan Godaliyadda](https://eng.pdn.ac.lk/deee/academic-staff/prof.gmri.godaliyadda/index.html#home), [Prof. Parakrama Ekanayake](https://eng.pdn.ac.lk/deee/academic-staff/dr.mpb.ekanayake/#home), and [Dr. Janaka Wijayakulasooriya](https://eng.pdn.ac.lk/deee/academic-staff/dr.j.wijayakulasooriya/index.html#home) from the Faculty of Engineering, University of Peradeniya and [Prof. Chatura Rathnayake](https://med.pdn.ac.lk/departments/gyn&obs/staff/rathnayake.html) from the Faculty of Medicine, University of Peradeniya. Fetal movement monitoring using a multi-sensor approach & Experimenting with the feature extration alongside a  prediction component using Utering Contraction recordings have been the primary focus for the past few months. During my internship at [Zone 24x7](https://zone24x7.com/), I had the privilege of working directly under the supervision of [Dr. Gerard Fernando](https://zone24x7.com/profile/gerard/) in building a set of monitoring tools for Linux based systems using [eBPF](https://ebpf.io/) and at the end of the internship I was able to get selected as one of the Top 4 interns of the year 2022. 
+Throughout my undergraduate studies, I was fortunate to be advised by many fantastic researchers. For my final year research project, I worked with [Prof. Roshan Godaliyadda](https://eng.pdn.ac.lk/deee/academic-staff/prof.gmri.godaliyadda/index.html#home), [Prof. Parakrama Ekanayake](https://eng.pdn.ac.lk/deee/academic-staff/dr.mpb.ekanayake/#home), and [Dr. Janaka Wijayakulasooriya](https://eng.pdn.ac.lk/deee/academic-staff/dr.j.wijayakulasooriya/index.html#home) from the Faculty of Engineering, University of Peradeniya and [Prof. Chatura Rathnayake](https://med.pdn.ac.lk/departments/gyn&obs/staff/rathnayake.html) from the Faculty of Medicine, University of Peradeniya. Fetal movement monitoring using a multi-sensor approach & Experimenting with the feature extration alongside a prediction component using Utering Contraction recordings have been the primary focus for the past few months. During my internship at [Zone 24x7](https://zone24x7.com/), I had the privilege of working directly under the supervision of [Dr. Gerard Fernando](https://zone24x7.com/profile/gerard/) in building a set of monitoring tools for Linux based systems using [eBPF](https://ebpf.io/) and at the end of the internship I was able to get selected as one of the Top 4 interns of the year 2022. 
 
-I like to write about the things that sparks my interest and about the things that are concerning in the present. You can check my Medium Blog using the link in the left sde panel. Sometimes I like to ponder upon the quotes from great people and I will leave you with one such quote which I saw over a decade ago and resonates with me to this day.  
+I like to write about the things that sparks my interest and about the things that are concerning in the present. You can check my Medium Blog using the link in the left sde panel. Sometimes I like to ponder upon the quotes from great people and I will leave you with one such quote which I came across over a decade ago and resonates with me to this day.  
 
 ***Our greatest glory is not in never falling, but in rising every time we fall. -  Confucius***
 
 NEWS
 ======
-*  [2023 Jun] The paper on Fetal movement monitoring using attention mechanisms was accepted for IEEE ICIIS 2023
-*  [2023 Apr] Submitted paper on Fetal movement monitoring using attention mechanisms
+[Last Updated on 14-Jan-2024]
+
+*  [2024 Jan] The paper submitted to [Data in Brief](https://www.sciencedirect.com/journal/data-in-brief) was accepted
+*  [2023 Nov] Submitted a paper to [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/) on fetal movements and the use of explianable AI in medicine
+*  [2023 Nov] Submitted a paper to [Humanities and Social Sciences Communications - Nature](https://www.nature.com/palcomms/) reagarding COVID-19 and its impact on Education in Sri Lanka
+*  [2023 Oct] Submitted a paper to [Data in Brief](https://www.sciencedirect.com/journal/data-in-brief) reagarding the dataset we collected to assess the imacts of COVID-19 in different demographics in Sri Lanka
+*  [2023 Apr] Submitted paper on Fetal movement monitoring using attention mechanisms to IEEE ICIIS 2023
 *  [2023 Apr] Started working as a Teaching Assistant working at the [Department of Computer Engineering](http://www.ce.pdn.ac.lk/), [University of Peradeniya](https://www.pdn.ac.lk/)
 *  [2023 Mar] Successfully Completed the BSc (Hons) in Engineering
 *  [2022 Aug] Internship placement at [Zone24x7](https://zone24x7.com/)
-*  [2021 Dec] Published paper on CCTV based Computer Vision at ICIIS 2021
+*  [2021 Dec] Published an IEEE conference paper on CCTV based Computer Vision at ICIIS 2021
 *  [2019 Nov] Internship placement at [OREL Corporation](https://orel.com/)
 *  [2019 Jun] Selected to Department of Electrical and Electronic Engineering
 *  [2017 Nov] Entered University of Peradeniya as an undergraduate to study Engineering
