@@ -20,7 +20,7 @@ Roshan I. Godaliyadda, Mervyn Parakrama B. Ekanayake, Chathura J. Rathnayake, Ja
 
 ## Family income does not necessarily lead to a holistic e-learning experience during COVID-19: A study in Sri Lanka [2023]
 
-* **Authors:** Neranjan Senarath, Wathsala Dedunupitiya, Gayanthi Ilangarathna, ***Isuru Thilakasir***i, Bhagya Samarakoon, Lakshitha Ramanayake, Roshan Godaliyadda, Parakrama Ekanayake, Vijitha Herath, Mallika Pinnawala, Sakunthala Yatigammana, Janaka Ekanayake, Samath Dharmarathne
+* **Authors:** Neranjan Senarath, Wathsala Dedunupitiya, Gayanthi Ilangarathna, ***Isuru Thilakasiri***, Bhagya Samarakoon, Lakshitha Ramanayake, Roshan Godaliyadda, Parakrama Ekanayake, Vijitha Herath, Mallika Pinnawala, Sakunthala Yatigammana, Janaka Ekanayake, Samath Dharmarathne
 
 * **Status:** Under Review
 
@@ -36,7 +36,7 @@ Roshan I. Godaliyadda, Mervyn Parakrama B. Ekanayake, Chathura J. Rathnayake, Ja
 
 * **Journal:** Data in Brief
 
-* **URL:** [https://dx.doi.org/10.2139/ssrn.4620745](https://dx.doi.org/10.2139/ssrn.4620745)
+* **URL:** [https://doi.org/10.1016/j.dib.2024.110063](https://doi.org/10.1016/j.dib.2024.110063)
 
 
 ## A Multi-Sensory Inertial Measurement Unit Dataset for Fetal Condition Monitoring [2023]
