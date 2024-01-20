@@ -36,7 +36,7 @@ Roshan I. Godaliyadda, Mervyn Parakrama B. Ekanayake, Chathura J. Rathnayake, Ja
 
 * **Journal:** Data in Brief
 
-* **URL:** [https://doi.org/10.1016/j.dib.2024.110063](https://doi.org/10.1016/j.dib.2024.110063)
+* **URL:** [https://www.sciencedirect.com/science/article/pii/S2352340924000374](https://www.sciencedirect.com/science/article/pii/S2352340924000374)
 
 
 ## A Multi-Sensory Inertial Measurement Unit Dataset for Fetal Condition Monitoring [2023]
