@@ -32,8 +32,6 @@ Roshan I. Godaliyadda, Mervyn Parakrama B. Ekanayake, Chathura J. Rathnayake, Ja
 
 * **Authors:** Gayanthi A. Ilangarathna, Lakshitha Ramanayake, Neranjan Senarath, Yasiru Ranasinghe, Harshana Weligampola, Wathsala Dedunupitiya, ***Isuru Thilakasiri***, Roshan Godaliyadda, Parakrama Ekanayake, Vijitha Herath, Janaka Ekanayake, Sakunthala Yatigammana, Anuruddhika Rathnayake, Mallika Pinnawala, Muthucumaru Maheswaran, Ganga Thilakaratne, and Samath Dharmarathne
 
-* **Status:** Accepted for Publication
-
 * **Journal:** Data in Brief
 
 * **URL:** [https://www.sciencedirect.com/science/article/pii/S2352340924000374](https://www.sciencedirect.com/science/article/pii/S2352340924000374)

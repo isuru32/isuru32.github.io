@@ -19,7 +19,7 @@ I like to write about the things that sparks my interest and about the things th
 
 NEWS
 ======
-[Last Updated on 14-Jan-2024]
+[Last Updated on 12-Feb-2024]
 
 *  [2024 Jan] The paper submitted to [Data in Brief](https://www.sciencedirect.com/journal/data-in-brief) was accepted
 *  [2023 Nov] Submitted a paper to [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/) on fetal movements and the use of explianable AI in medicine
