@@ -20,7 +20,7 @@ Work experience
 ======
 * Apr 2023 Onwards: Teaching Assistant - [University of Peradeniya](https://www.pdn.ac.lk/)
 
-  * Responsibilities: 
+  * Subjects: 
     * GP106 - Computing (2023)
     * CO225 - Software Construction (2023) 
     * CO226 - Database Systems (2023) 
